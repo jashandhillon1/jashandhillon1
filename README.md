@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jashanpreet Singh. I am having a undergrad degree in CSE and 1+ year in tech.
+- 👋 Hi, I’m @Jashanpreet Singh. I am a Grad student in University of Windsor and 1+ year in tech.
 - 👀 I’m interested in Full Stack web development, Machine learning
 - 🌱 I got following technical skills- Java, Python, JavaScript, SQL, MongoDB, Jenkins
-- 💞️ I’m looking to collaborate on ...
 - 📫 Send me a mail on Jashandhillon211@gmail.com
 
 <!---
